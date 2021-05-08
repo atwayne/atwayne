@@ -6,3 +6,5 @@ Get in touch.
 
 ---
 ![](https://raw.githubusercontent.com/atwayne/atwayne/master/images/wayne.png)
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=atwayne.atwayne" width=0 height=0>
